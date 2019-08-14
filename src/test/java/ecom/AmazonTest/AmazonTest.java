@@ -78,8 +78,8 @@ public class AmazonTest extends Base
 		//Object[][] data=new Object[rowcount][columncount]
 		Object[][] data= new Object[1][2];
 		
-		data[0][0]="amangupta.it@gmail.com"; // Provide valid username 
-		data[0][1]="aman@123"; // provide valid password
+		data[0][0]="aman****@gmail.com"; // Provide valid username 
+		data[0][1]="an****mmm"; // provide valid password
 				
 		return data;
 		
